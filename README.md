@@ -1,18 +1,35 @@
-# Getting Started with Create React App
+# Efficient Blog comments
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
 
-## Available Scripts
+   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-blueviolet?style=for-the-badge&logo=visualstudiocode)
+![ReactJS](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react)
+![Javascript](https://img.shields.io/badge/-JavaScript-critical?style=for-the-badge&logo=JAVASCRIPT)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux)
 
-In the project directory, you can run:
+</p>
 
-### `yarn start`
+### How did you React?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Screenshots
+<p float="left">
+  <img src="shot1.jpg" width="400">
+  &nbsp;&nbsp;
+  <img src="shot2.jpg" width="400">
+</p>
+
+
+
+<br />
+
+## Hello Future me
+
+Simply cd to the blog directory and run yarn start. Make sure you have the right dependencies install: <b>Npm, React, Redux, Lodash, Yarn. </b>
+
+
+<br />
 
 ### `yarn test`
 
